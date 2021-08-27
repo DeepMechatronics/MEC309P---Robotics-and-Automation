@@ -1,4 +1,4 @@
-# Exp5 Detection and locomotion of vaccine boxes on a conveyor system
+# Exp5-Detection and locomotion of vaccine boxes on a conveyor system
 
 ## Helpful Resource
 
