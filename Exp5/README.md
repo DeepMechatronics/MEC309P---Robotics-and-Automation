@@ -1,6 +1,6 @@
 # Exp5-Detection and locomotion of vaccine boxes on a conveyor system
 
-## Helpful Resource
+## Helpful Resources
 
 1. [CoppeliaSim User Manual](https://coppeliarobotics.com/helpFiles/)
 2. [Tutorials](https://www.coppeliarobotics.com/helpFiles/en/tutorials.htm)
