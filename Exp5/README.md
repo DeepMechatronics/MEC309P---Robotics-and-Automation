@@ -6,7 +6,7 @@
 2. [Tutorials](https://www.coppeliarobotics.com/helpFiles/en/tutorials.htm)
 3. [Regular API reference](https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm)
 4. [CoppeliaSim Videos](https://coppeliarobotics.com/videos)
-5. [Explation Video](https://youtu.be/XkrV7ReG7XQ)
+5. [Explanation Video](https://youtu.be/XkrV7ReG7XQ)
 ## Getting Started
 
 1. Download and Install [CoppeliaSim V4.2.0](https://www.coppeliarobotics.com/downloads)
