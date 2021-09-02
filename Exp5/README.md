@@ -7,6 +7,7 @@
 3. [Regular API reference](https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm)
 4. [CoppeliaSim Videos](https://coppeliarobotics.com/videos)
 5. [Explanation Video](https://youtu.be/XkrV7ReG7XQ)
+6. [How can i use (modify and read) a variable in two diferent scripts?](https://forum.coppeliarobotics.com/viewtopic.php?t=3953)
 ## Getting Started
 
 1. Download and Install [CoppeliaSim V4.2.0](https://www.coppeliarobotics.com/downloads)
