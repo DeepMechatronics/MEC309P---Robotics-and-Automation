@@ -1,4 +1,4 @@
-# Exp6-Pick and Place operation using SCARA Robot
+# Exp6-Modelling and Simulation for precision pick and place operation on vaccine-box by SCARA robot
 
 ## Helpful Resources
 0. [Sensors and Actuators](https://www.just.edu.jo/~haalshraideh/Courses/IE431/Lecture_slides/ch6%20sensors_and_actuators.pdf)
