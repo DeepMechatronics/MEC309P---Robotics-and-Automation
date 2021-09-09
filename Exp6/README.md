@@ -6,9 +6,8 @@
 2. [Tutorials](https://www.coppeliarobotics.com/helpFiles/en/tutorials.htm)
 3. [Regular API reference](https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm)
 4. [CoppeliaSim Videos](https://coppeliarobotics.com/videos)
-5. [Explanation Video](https://youtu.be/XkrV7ReG7XQ)
-6. [Robot language interpreter integration tutorial](https://www.coppeliarobotics.com/helpFiles/en/robotLanguageIntegrationTutorial.htm)
-7. [How to find inverse kinematics given D-H parameters?](https://in.mathworks.com/matlabcentral/answers/705003-how-to-find-inverse-kinematics-given-d-h-parameters)
+5. [Robot language interpreter integration tutorial](https://www.coppeliarobotics.com/helpFiles/en/robotLanguageIntegrationTutorial.htm)
+6. [How to find inverse kinematics given D-H parameters?](https://in.mathworks.com/matlabcentral/answers/705003-how-to-find-inverse-kinematics-given-d-h-parameters)
 
 
 ## Getting Started
