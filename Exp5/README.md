@@ -12,4 +12,4 @@
 
 1. Download and Install [CoppeliaSim V4.2.0](https://www.coppeliarobotics.com/downloads)
 
-## [Problem Statement](https://raw.githubusercontent.com/DeepMechatronics/MEC309P---Robotics-and-Automation/master/Exp5/Problem_Statement.pdf)
+## [Problem Statement](https://github.com/DeepMechatronics/ME5009P---Design-of-Manufacturing-Automation/blob/8330a799aafe7a42897f1091cba929cb2d0ac4d3/EXP11/Problem_Statement.pdf)
